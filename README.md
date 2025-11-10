@@ -47,8 +47,6 @@ that add value to people's lives.
 
 ## 🌿 GitHub Insights
 
-## 📊 GitHub Overview
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Meet57a&show_icons=true&theme=transparent&hide_border=true&text_color=ffffff&title_color=00bcd4&icon_color=00bcd4" alt="Meet's GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meet57a&theme=transparent&hide_border=true&ring=00bcd4&fire=00bcd4&currStreakLabel=00bcd4" alt="GitHub Streak" width="48%"/>
