@@ -14,14 +14,6 @@ My goal is to turn my passion into a profession — crafting digital solutions
 that add value to people's lives.
 </p>
 
----
-
-- 🌱 I’m currently learning **Docker & Android Development**  
-- 👨‍💻 Check out all my projects at [github.com/Meet57a](https://github.com/Meet57a)  
-- 📫 Reach me at **meet.senjaliya.24@gmail.com**
-
----
-
 ## 🔧 Tools & Technologies
 
 <p align="left"> 
