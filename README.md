@@ -53,14 +53,17 @@ that add value to people's lives.
 
 ---
 
-## 📈 GitHub Stats
+## 🌿 GitHub Insights
 
-<a href="https://github.com/Meet57a">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meet57a&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/Meet57a">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Meet57a&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Meet's GitHub Stats" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Meet57a&show_icons=true&theme=vue-dark&hide_border=true&bg_color=1F222E&title_color=41B883&icon_color=41B883" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Meet57a&theme=vue-dark&hide_border=true&background=1F222E&ring=41B883&fire=41B883&currStreakLabel=41B883" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meet57a&layout=compact&theme=vue-dark&hide_border=true&title_color=41B883&bg_color=1F222E" width="48%"/>
+</p>
+
 
 ---
 
